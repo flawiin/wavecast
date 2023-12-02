@@ -1,0 +1,7 @@
+.secao {
+    display: grid;
+    grid-template-rows: 70px auto;
+    align-items: end;
+    row-gap: 2rem;
+}
+
