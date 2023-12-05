@@ -1,2 +1,0 @@
-# wavecast
-Plataforma de Podcasts. 
